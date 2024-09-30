@@ -2,9 +2,19 @@
 <h3 align="center">Crafting Code for Speed, Efficiency, and Innovation</h3>
 
 
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0000FF&width=435&lines=Lines+of+logic,+endless+possibilities;Always+learning+something+new;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F)
+
+</div>
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+Welcome to my GitHub profile! Here you'll find my projects and contributions to the world of software development.
+
+
+
+
+<img align="centre" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshwaraprasad&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshwaraprasad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshwaraprasad" alt="lokeshwaraprasad" /></a> </p>
@@ -15,6 +25,13 @@
 
 - 📫 How to reach me **venkatesanlokeshwaraprasad@gmail.com**
 [![Holopin Badge](https://holopin.me/lokeshwaraprasad)](https://holopin.io/@lokeshwaraprasad)
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshwaraprasad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
