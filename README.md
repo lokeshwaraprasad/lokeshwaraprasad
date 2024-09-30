@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokeshwaraprasad.V</h1>
 <h3 align="center">Crafting Code for Speed, Efficiency, and Innovation</h3>
-[![An image of @lokeshwaraprasad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lokeshwaraprasad)](https://holopin.io/@lokeshwaraprasad)
+
+
 
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
@@ -13,6 +14,7 @@
 - 💬 Ask me about **HTML,CSS,C**
 
 - 📫 How to reach me **venkatesanlokeshwaraprasad@gmail.com**
+[![Holopin Badge](https://holopin.me/lokeshwaraprasad)](https://holopin.io/@lokeshwaraprasad)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
