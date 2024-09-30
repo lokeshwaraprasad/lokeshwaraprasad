@@ -2,6 +2,7 @@
 <h3 align="center">Crafting Code for Speed, Efficiency, and Innovation</h3>
 [![An image of @lokeshwaraprasad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lokeshwaraprasad)](https://holopin.io/@lokeshwaraprasad)
 
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshwaraprasad&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshwaraprasad" /> </p>
 
