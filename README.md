@@ -40,7 +40,7 @@ Welcome to my GitHub profile! Here you'll find my projects and contributions to 
 <a href="https://www.codechef.com/users/lokeshwaraprasad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lokeshwaraprasad" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lokeshwaraprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lokeshwaraprasad" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lokeshwaraprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lokeshwaraprasad" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/lokesh2195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/lokesh2195/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/lokesh2195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/lokesh2195/" height="30" width="40" /></a>
 </p>
 <br>
 
