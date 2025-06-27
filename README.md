@@ -47,9 +47,8 @@
 
 ### 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lokeshwaraprasad&theme=flat&no-frame=true&margin-w=10" alt="Trophies" />
-</p>
+
+
 
 [![Holopin Badge](https://holopin.me/lokeshwaraprasad)](https://holopin.io/@lokeshwaraprasad)
 
