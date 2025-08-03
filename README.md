@@ -9,9 +9,9 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently learning **Java, React, and Backend Development**
-- 💬 Ask me about **HTML, CSS, and C Programming**
-- 📫 Reach me at: **venkatesanlokeshwaraprasad@gmail.com**
+-  I’m currently learning **Java, React, and Backend Development**
+- Ask me about **HTML, CSS, and C Programming**
+- Reach me at: **venkatesanlokeshwaraprasad@gmail.com**
 
 ---
 
